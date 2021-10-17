@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778245047421",
+    "project_id": "proyecto-biometria",
+    "storage_bucket": "proyecto-biometria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778245047421:android:fd85227404c45e9f045d14",
+        "android_client_info": {
+          "package_name": "com.marcamp1.proyectoBiometria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778245047421-8pvfm6ujp769c0t5q6bqo49ovl5d4ihr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcamp1.proyectoBiometria",
+            "certificate_hash": "483542056bc51301a201fb0458ed426c0e5fcf73"
+          }
+        },
+        {
+          "client_id": "778245047421-j3tsd8i7tgdc2589tao7cbbq82qo6hqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CSjGkUJ3WCEXtoNI1SvbgiQEObDdDz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778245047421-j3tsd8i7tgdc2589tao7cbbq82qo6hqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
